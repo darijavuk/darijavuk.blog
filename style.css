@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.color-text {
+    color: #5c5757;
+}
+
+.color-primary {
+    color: #006699;
+}
+
+.h1 {
+    font-family: "Roboto Slab", serif;
+    font-size: 54px;
+    font-weight: 700;
+    margin-bottom: 14px;
+}
+
+.h2 {
+    font-family: "Roboto Slab", serif;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 1.25;
+}
+
+.body {
+    font-family: "Robto Slab", serif;
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 1.5;
+}
+
+.link {
+    font-family: "Robto Slab", serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.25;
+}
+
+.metadata {
+    font-family: "Robto Slab", serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.25;
+}
+
+.small {
+    font-family: "Robto Slab", serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.25;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 1152px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+header{
+    padding-top: 54px;
+    padding-bottom: 14px;
+}
+
+main {
+    padding-top: 127px;
+    padding-bottom: 14px;
+}
